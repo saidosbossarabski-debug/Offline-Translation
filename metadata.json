@@ -1,0 +1,6 @@
+{
+  "name": "Polyglot: Offline Translator",
+  "description": "Offline translator for world languages with interactive flashcards study deck, audio pronunciation, and essential phrasebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
